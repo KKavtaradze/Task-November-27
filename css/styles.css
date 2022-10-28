@@ -1,0 +1,144 @@
+.header {
+    margin-left: auto;
+    margin-right: auto;
+    position: fixed;
+    left: 140px;
+    top: 30px;
+    z-index: 100;
+}
+.logo-atag {
+    display: inline-block;
+    vertical-align: middle;
+}
+.navigation {
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 438px;
+}
+.navigation-ul {
+    display: inline-block;
+}
+.list-item {
+    display: inline-block;
+}
+.list-item-atag {
+    color: #FFFFFF;
+    font-size: 12;
+    text-transform: uppercase;
+    /* font-family: ; */
+}
+.no1 {
+    margin-left: 50px;
+}
+.background-image-box {
+    width: 1366px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.background-image {
+    width: 100%;
+}
+.h1-about-us {
+    font-size: 42px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 146px;
+    left: 139px;
+    /* font-family: ; */
+}
+.home-shortcut {
+    position: absolute;
+    color: #FFFFFF;
+    top: 219px;
+    left: 139px;
+    text-transform: capitalize;
+}
+.separator {
+    width: 1px;
+    height: 19px;
+    background-color: white;
+    display: inline-block;
+    position: absolute;
+    top: 219px;
+    left: 195.5px;
+    /* font-family: ; */
+}
+.about-us-shortcut {
+    position: absolute;
+    color: #FFFFFF;
+    top: 219px;
+    left: 212px;
+    text-transform: capitalize;
+    /* font-family: ; */
+}
+.section-wraper {
+    width: 1092px;
+    margin-top: 128px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 90px;
+}
+.text-wraper {
+    display: inline-block;
+    width: 444px;
+    vertical-align: middle;
+    margin-right: 108px;
+}
+.about-us-2nd-shortcut {
+    text-transform: uppercase;
+    color: #5863F8;
+    font-size: 14px;
+    /* font-family: ; */
+}
+.h2-trust-and-quality {
+    font-size: 42px;
+    width: 374px;
+    /* font-family: ; */
+    margin-top: 1px;
+}
+.p-main-text {
+    font-size: 16px;
+    margin-top: 10px;
+    /* font-family: ; */
+}
+.button-read-more {
+    background-color: #5863F8;
+    width: 184px;
+    height: 50px;
+    margin-top: 20px;
+    position: relative;
+}
+.button-text {
+    font-size: 14px;
+    color: #FFFFFF;
+    padding-top: 19.6px;
+    padding-right: 65px;
+    padding-bottom: 15px;
+    padding-left: 45px;
+}
+.arrow-right {
+    position: absolute;
+    top: 19.6px;
+    left: 129px;
+}
+.albom {
+    display: inline-block;
+    vertical-align: middle;
+}
+.pic-top {
+    width: 260px;
+    height: 185px;
+    display: inline-block;
+    background-color: #5863F8;
+    border-color: black;
+}
+.pic-left {
+    margin-right: 12px;
+}
+.pic-bottom {
+    width: 536px;
+    margin-top: 12px;
+}
+.h-white {
+    color: #FFFFFF;
+}
